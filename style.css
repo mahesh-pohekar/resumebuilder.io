@@ -1,0 +1,21 @@
+/* body{
+    background-color: aqua;
+} */
+#cv-form{
+    /* display:none; */
+}
+#cv-template{
+    display: none;
+}
+.myimg{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: aquamarine;
+    position: relative;
+    left: 0%;
+    top: 0%;
+    width: 50%;
+}
